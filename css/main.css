@@ -1225,7 +1225,7 @@ body {
 /* Type */
 body, input, select, textarea {
   color: #fff;
-  font-family: "PingFang TC", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 16.5pt;
   font-weight: 300;
   line-height: 1.65; }
@@ -1257,7 +1257,7 @@ a {
     text-decoration: none;
     border-bottom: 0;
     display: block;
-    font-family: "PingFang TC", Helvetica, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 0.8em;
     font-weight: 700;
     letter-spacing: 0.1em;
@@ -1301,7 +1301,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
-  font-family: "PingFang TC", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   letter-spacing: 0.1em;
   margin: 0 0 1em 0;
@@ -1407,7 +1407,7 @@ form {
 label {
   color: #fff;
   display: block;
-  font-family: "PingFang TC", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.8em;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -1507,7 +1507,7 @@ input[type="radio"] {
     cursor: pointer;
     display: inline-block;
     font-size: 1em;
-    font-family: "PingFang TC", Helvetica, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     text-transform: none;
     letter-spacing: 0;
     font-weight: 300;
@@ -1827,7 +1827,7 @@ button,
   color: #fff !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "PingFang TC", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 0.8em;
   font-weight: 700;
   height: 3.75em;
@@ -1991,7 +1991,7 @@ button,
     #header h1 a {
       border: 0; }
   #header nav {
-    font-family: "PingFang TC", Helvetica, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 0.8em;
     font-weight: 700;
     height: 3em;
@@ -2147,7 +2147,7 @@ button,
         border-radius: 5px;
         border: 0;
         display: block;
-        font-family: "PingFang TC", Helvetica, sans-serif;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
         font-size: 0.8em;
         font-weight: 200;
         letter-spacing: 0.1em;
@@ -2231,7 +2231,7 @@ body.is-menu-visible #menu {
     -ms-filter: blur(0);
     filter: blur(0);
     opacity: 1;
-    font-family: "PingFang TC", Helvetica, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1em;
     font-weight: 200;
     letter-spacing: 0.1em;
@@ -2296,7 +2296,7 @@ body.is-menu-visible #menu {
     margin-bottom: 0.8em;
     padding-bottom: 0.4em; }
   #wrapper > header p {
-    font-family: "PingFang TC", Helvetica, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1em;
     font-weight: 200;
     letter-spacing: 0.1em;
